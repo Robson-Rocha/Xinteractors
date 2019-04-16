@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Authors>RobsonROX</Authors>
+    <Product>Xinteractors.Abstractions</Product>
+    <Description>Abstractions for implementation of interactors</Description>
+    <PackageIconUrl>https://github.com/Robson-Rocha/Xinteractors/raw/master/docs/xinteractors-nuget.png</PackageIconUrl>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageProjectUrl>https://github.com/robson-rocha/xinteractors</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Copyright>Copyright ©2019 Robson Rocha de Araújo</Copyright>
+    <PackageLicenseUrl>https://github.com/Robson-Rocha/Xinteractors/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageTags>xinteractors, interactor, mediator</PackageTags>
+    <Company>Robson Rocha de Araújo</Company>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <Version>1.0.0</Version>  
+  </PropertyGroup>
+
+</Project>
